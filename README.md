@@ -24,7 +24,11 @@ git clone https://github.com/GuiBibeau/toxicity-demo.git
 npm install
 ```
 
+<<<<<<< HEAD
 * Replace `process.env.OPENAI_API_KEY` in `pages/api/question.js` with your OpenAI API Key.
+=======
+* Replace `OPENAI_API_KEY` in pagesindex.js with your OpenAI API Key.
+>>>>>>> 19b34a7 (chore: add readme)
 
 * Start the development server
 
