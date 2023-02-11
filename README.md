@@ -1,5 +1,7 @@
 # toxicity-demo
 
+![A screenshot of the application](https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1676145476/Screenshot_2023-02-11_at_8.56.25_PM_iijjus.png)
+
 This is a sample application that demonstrates how to build an intelligent application using Next.js, OpenAI, and Fly.io.
 
 The app uses the OpenAI API to generate natural language responses based on the input provided by the user.
